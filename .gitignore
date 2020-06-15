@@ -1,0 +1,21 @@
+# Theos generated files #
+######################
+.theos/
+packages/
+obj/
+
+
+
+# OS generated files #
+######################
+.DS_Store?
+ehthumbs.db
+._*
+# Icon?
+Thumbs.db
+
+
+
+#    Other files     #
+######################
+.vscode

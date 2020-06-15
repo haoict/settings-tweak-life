@@ -1,0 +1,10 @@
+Package: com.cardboardface.settingstweaklife
+Name: SettingsTweakLife
+Depends: mobilesubstrate, preferenceloader
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: Makes Settings app open straight to the tweaks section
+Pre-Depends: firmware(>=10.0), mobilesubstrate
+Maintainer: CardboardFace
+Author: CardboardFace
+Section: Tweaks
